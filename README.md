@@ -20,4 +20,4 @@ The Application Runs on **http://localhost:3000**
 
 ### Screenshot
 
-![](./desktop-preview.jpg)
+![](./desktop-preview.JPG)
