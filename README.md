@@ -17,3 +17,7 @@ npm start
 This will spin up a `local development server` (usually on port `3000`). 
 
 The Application Runs on **http://localhost:3000**
+
+### Screenshot
+
+![](desktop-preview.jpg)
